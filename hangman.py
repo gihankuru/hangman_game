@@ -24,7 +24,7 @@ def hangman():
             
         
         else:
-            print("Input is invalid please try again")
+            print("Input is invalid please try again ")
         
     
     
